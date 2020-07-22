@@ -1,1 +1,0 @@
-Jel sada radi?
