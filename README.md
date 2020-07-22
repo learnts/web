@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Naslov
 
 Tekst ispod naslova. 
