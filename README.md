@@ -1,2 +1,2 @@
-# web
-web learn
+# Web
+Just learning some basic stuff.
